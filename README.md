@@ -1,2 +1,2 @@
 # krunkerNew
-this is kruker but with spotify music at the bottom
+this is krunker but with spotify music at the bottom
